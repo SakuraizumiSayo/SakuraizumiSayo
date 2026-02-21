@@ -1,7 +1,7 @@
-✧･ﾟ: *✧･ﾟ:* Hi hi~! *:･ﾟ✧*:･ﾟ✧ ฅ^•ﻌ•^ฅ
+# ✧･ﾟ: *✧･ﾟ:* Hi hi~! *:･ﾟ✧*:･ﾟ✧ ฅ^•ﻌ•^ฅ
 
-**Sakuraizumi Sayo 桜井　紗世** ♡  
-A super beginner who’s trying her best to become a code magician~ 🌟
+## **Sakuraizumi Sayo 桜井　紗世** ♡  
+## A super beginner who’s trying her best to become a code magician~ 🌟
 
 ---
 

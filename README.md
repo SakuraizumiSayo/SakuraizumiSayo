@@ -1,7 +1,7 @@
-<font size="7">✧･ﾟ: *✧･ﾟ:* Hi hi~! *:･ﾟ✧*:･ﾟ✧ ฅ^•ﻌ•^ฅ</font>  
+<font size="6">✧･ﾟ: *✧･ﾟ:* Hi hi~! *:･ﾟ✧*:･ﾟ✧ ฅ^•ﻌ•^ฅ</font>  
  
-<font size="6">**Sakuraizumi Sayo 桜井　紗世** ♡</font>  
-<font size="6">A super beginner who’s trying her best to become a code magician~ 🌟</font>  
+<font size="5">**Sakuraizumi Sayo 桜井　紗世** ♡</font>  
+<font size="5">A super beginner who’s trying her best to become a code magician~ 🌟</font>  
 ---
 
 ### 🌸 Right now I'm...

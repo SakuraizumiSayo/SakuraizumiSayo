@@ -1,6 +1,6 @@
 <font size="6">✧･ﾟ: *✧･ﾟ:* Hi hi~! *:･ﾟ✧*:･ﾟ✧ ฅ^•ﻌ•^ฅ</font>  
  
-<font size="5">**Sakuraizumi Sayo 桜井　紗世** ♡</font>  
+<span style="font-size:18px;color:pink;">**Sakuraizumi Sayo 桜井　紗世** ♡</span>
 <font size="5">A super beginner who’s trying her best to become a code magician~ 🌟</font>  
 ---
 
